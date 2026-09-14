@@ -2,7 +2,6 @@
 
 An embedded systems project implementing a classic vending machine as a **Finite State Machine (FSM)**, built on an Arduino Nano Every. The system accepts simulated coin input via push-buttons, tracks accumulated credit, dispenses a product once the price threshold is met, and returns change — all reflected live on an I2C LCD display.
 
-Originally designed and demonstrated in LabVIEW's State Diagram Toolkit; this project translates that graphical state machine into structured C/C++ for embedded hardware.
 
 ## Overview
 
