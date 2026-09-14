@@ -66,7 +66,7 @@ RETURN:015 CHNG:1
 - Real-time hardware I/O: debounced digital input handling, output control, and I2C peripheral communication
 - Systematic hardware debugging and test-driven verification against a reference behaviour spec
 
-## Image of the hardware of the project
+## Image Of The Hardware Of The Project
 <img width="1257" height="827" alt="image" src="https://github.com/user-attachments/assets/02f49631-cb92-4a68-b486-31ad95f7b1c5" />
 
 
